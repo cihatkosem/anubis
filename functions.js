@@ -1,0 +1,12 @@
+module.exports.channelDatas = require('./functions/channelDatas');
+module.exports.roleDatas = require('./functions/roleDatas');
+module.exports.memberDatas = require('./functions/memberDatas');
+module.exports.getEntry = require('./functions/getEntry');
+module.exports.getTable = require('./functions/getTable');
+module.exports.setInvites = require('./functions/setInvites');
+module.exports.toCompare = require('./functions/toCompare');
+module.exports.files = require('./functions/files');
+module.exports.log = require('./functions/log');
+module.exports.dayjs = require('./functions/dayjs');
+module.exports.punishmentRemoving = require('./functions/punishmentRemoving');
+module.exports.error = require('./functions/error');
